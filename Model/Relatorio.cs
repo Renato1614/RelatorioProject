@@ -1,3 +1,5 @@
+using RelatorioProject.Repository;
+
 namespace RelatorioProject.Model
 {
     public class Relatorio
