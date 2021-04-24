@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "P6b0+iOwAhHNgPVYFfYLKKGdNdkJRQa7T8N+NLQ06puNvlt+svfQZ44aiVYpO6TfqJCNeY80k3+ikptXt2t15Q==",
+  "success": true,
+  "projectFilePath": "/home/renato/Documentos/Estudos/webApi/RelatorioProject/RelatorioProject.csproj",
+  "expectedPackageFiles": [
+    "/home/renato/.nuget/packages/microsoft.extensions.apidescription.server/3.0.0/microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "/home/renato/.nuget/packages/microsoft.openapi/1.2.3/microsoft.openapi.1.2.3.nupkg.sha512",
+    "/home/renato/.nuget/packages/swashbuckle.aspnetcore/5.6.3/swashbuckle.aspnetcore.5.6.3.nupkg.sha512",
+    "/home/renato/.nuget/packages/swashbuckle.aspnetcore.swagger/5.6.3/swashbuckle.aspnetcore.swagger.5.6.3.nupkg.sha512",
+    "/home/renato/.nuget/packages/swashbuckle.aspnetcore.swaggergen/5.6.3/swashbuckle.aspnetcore.swaggergen.5.6.3.nupkg.sha512",
+    "/home/renato/.nuget/packages/swashbuckle.aspnetcore.swaggerui/5.6.3/swashbuckle.aspnetcore.swaggerui.5.6.3.nupkg.sha512"
+  ],
+  "logs": []
+}
