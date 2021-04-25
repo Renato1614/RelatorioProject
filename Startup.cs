@@ -35,6 +35,7 @@ namespace RelatorioProject
             {
                 c.SwaggerDoc("v1", new OpenApiInfo { Title = "RelatorioProject", Version = "v1" });
             });
+            services.AddAutoMapper(AppDomain.CurrentDomain.GetAssemblies());
             services.AddScoped<IRelatorioRepository,RelatorioRepository>();
         }
 
